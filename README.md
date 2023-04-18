@@ -6,7 +6,7 @@ Pour compiler et exécuter le programme, vous devez disposer d'un compilateur C+
 
 ## Utilisation
 - Assurez-vous que g++ est installé sur votre système.
-- Ouvrez un terminal et naviguez jusqu'au répertoire contenant le fichier testermite.cpp à l'aide de la commande : 
+- Ouvrez un terminal et naviguez jusqu'au répertoire contenant le fichier `testermite.cpp` à l'aide de la commande : 
 ```bash
 cd/chemin
 ```
